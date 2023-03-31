@@ -1,6 +1,8 @@
 # GNUVarioE_GPS_Improvement
 
-Variant of GNU vario E (2,9 inch screen version)
+Improved GPS Variant of GNU vario E (2,9 inch screen version)
+
+![](./Images/IMG_20210912_160323.jpg)
 
 The .f3d files can be edited with Fusion360
 
